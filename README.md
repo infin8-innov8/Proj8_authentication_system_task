@@ -113,21 +113,17 @@ The project includes custom Django management commands to simplify administratio
 python manage.py create_ldap_superuser --username <user> --email <email> --first_name <first> --last_name <last> --phone_number <phone>
 ```
 
-## 📄 License
-
-This project is licensed under the [MIT License](https://www.google.com/search?q=LICENSE) - see the https://www.google.com/search?q=LICENSE file for details.
-
------
-
-\<div align="center"\>
+<div align="center"\>
 
 **⭐ Star this repo if you find it helpful\!**
 
 Made with ❤️ by Pranav Vasankar [infin8-innov8]
 
-\</div\>
+<div>
 
 ```
 
 Would you like me to review any specific views or serializer logic to ensure the LDAP synchronization functions smoothly with your JWT setup?
 ```
+
+</div>
