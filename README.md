@@ -17,7 +17,7 @@
 This project provides a foundational backend solution for user authentication. Developed using Python and the Django REST Framework, it bridges legacy directory services with modern front-end architectures. By integrating LDAP for automated account provisioning and synchronization.
 
 ### 🙏 Acknowledgments
-This project was successfully completed as a dedicated task at **IUCAA (Inter-University Centre for Astronomy and Astrophysics)**. Special thanks to **Mr. Harshad Savant** and **Mr. Dipak Joshi** for their invaluable guidance, as well as for providing the necessary LDAP server infrastructure and resources to bring this system to life.
+This project was successfully completed as a dedicated task at **IUCAA (Inter-University Centre for Astronomy and Astrophysics)**. Special thanks to **Mr. Harshad Savant** and **Mr. Dipak Bankar** for their invaluable guidance, as well as for providing the necessary LDAP server infrastructure and resources to bring this system to life.
 
 ## ✨ Core Features
 
